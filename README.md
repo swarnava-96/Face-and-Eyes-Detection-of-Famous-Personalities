@@ -15,7 +15,7 @@ research paper “Rapid Object Detection using a Boosted Cascade of Simple Featu
 The features in Haar Cascade is stored in XML files. I have used "haarcascade_frontalface_default.xml"
 for detecting the face and "haarcascade_eye.xml" for detecting the eyes. I have downloaded these files
 from Haar Cascade GitHub repository [[link](https://github.com/opencv/opencv/tree/master/data/haarcascades)].
-Then, I loaded our image and converted it into gray scale and iterated through face, eye arrays and drawing a rectangle over each face and eye.
+Then, I loaded the image and converted it into gray scale and iterated through face, eye arrays and drawing a rectangle over each face and eye.
 
 ### Demo:
 ![image](https://user-images.githubusercontent.com/75041273/136523789-680c9391-e333-4a31-85bf-d98c79e4cfb6.png)
