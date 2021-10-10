@@ -27,6 +27,9 @@ Then, I loaded the image and converted it into gray scale and iterated through f
 ![image](https://user-images.githubusercontent.com/75041273/136544051-f620418a-0c53-4940-bc9e-3bf10ba5b094.png)
 ![image](https://user-images.githubusercontent.com/75041273/136544143-51aa8a35-5caf-4662-9604-4cd35de5731d.png)
 
+### Installation:
+The Code is written in Python 3.7.3 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+
 ##### 1. First create a virtual environment by using this command:
 ```bash
 conda create -n myenv python=3.7
